@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  .text1 {
+    background-color: red;
+  }
+  .text2 {
+    color: aqua;
+  }
+  .text3 {
+    margin: 5px;
+  }
+  .text4 {
+    font-size: 50px;
+    width: 200px;
+  }
+  .gambar {
+    width: 30px;
+  }
+  .footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    gap: 15px;
+  }

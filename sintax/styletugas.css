@@ -1,0 +1,170 @@
+.logo {
+    align-content: center;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: #ffffff;
+}
+b{
+    color: #ffffff;
+}
+.cc{
+    width: 1450px;
+    height: 200px;
+    background-color: rgb(52, 48, 48);
+
+    text-align: center;
+    line-height: 200px; 
+}
+.batas{
+    width: 1000px;
+    height: 200px;
+    background-color: black;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+}
+h2{
+    text-align: center;
+}
+.footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    gap: 15px;
+    color: #ff0000;
+    margin-right: 50px;
+  }  
+  h4{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+  
+
+.inti{
+    color: #dc0000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: x-large;
+}
+.tambahan{
+    color: #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 3px;
+    background-color: #c6ddff;
+    width: 1450px;
+    margin: 12px;
+    font-size: large;
+}
+h3{
+    color: rgb(30, 26, 26);
+    background-color: rgb(30, 26, 26);
+}
+.container {
+    color: rgb(67, 7, 7);
+    margin: 20px;
+    a
+    
+}
+
+.box0{
+width: 200px;
+height: 200px;
+background-color: black;
+margin: 10px;
+text-align: center;
+line-height: 200px;
+color: #ffffff;
+}
+.box1{
+width: 100px;
+height: 100px;
+background-color: rgb(0, 0, 0);
+margin: 10px;
+text-align: center;
+line-height: 200px;
+color: #c6bfbf;
+}
+
+.box2{
+width: 50px;
+height: 50px;
+background-color: rgb(0, 0, 0);
+margin: 10px;
+text-align: center;
+line-height: 200px;
+color: #c6bfbf;
+}
+
+.box3{
+width: 25px;
+height: 25px;
+background-color: rgb(0, 0, 0);
+margin: 10px;
+text-align: center;
+line-height: 200px;
+color: #ffffff;
+}
+
+.box4{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #ffffff;
+    }
+.box5{
+        width: 1453px;
+        height: 3px;
+        background-color: rgb(0, 0, 0);
+        margin: 10px;
+        text-align: center;
+        line-height: 200px;
+        color: #ffffff;
+        }
+.boxs {
+display: flex;
+}
+
+.ucapan{
+    display: grid;
+    align-items: center;
+    gap: 15px;
+    background-color: cadetblue;
+    font-size: 50px;
+    width: 200px;
+    margin: 5px;
+}
+
+.ucapan2{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    background-color: rgb(95, 158, 160);
+    font-size: 50px;
+    width: 150px;
+    margin: 5px;
+}
+
+.gambar {
+    width: 250px;
+  }
+ .a {
+    font-size: xx-large;
+ }
+
+ .box6{
+    width: 1453px;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #ffffff;
+    }
